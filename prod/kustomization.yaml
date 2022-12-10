@@ -1,0 +1,7 @@
+---
+images:
+  - name: eclipse-mosquitto
+    newTag: 2.0.15-openssl
+namespace: prod
+resources:
+  - ../base
